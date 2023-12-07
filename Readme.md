@@ -12,7 +12,12 @@
     > git status
 - helyi gépen ellenőrizzük le: username és email:
     > git config user.name
+
     > git config user.email    
 - eltároljuk mint egy új verzió:
     > git commit -m "first commit"                 
 ## Összekapcsolás a távoli repoval
+
+- GitHub repo létrehozása
+- összekapcsolási parancs: 
+    >   git remote add origin https://token@github.com/aaronzsolt/mymusic.git
