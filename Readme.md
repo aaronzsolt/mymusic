@@ -21,3 +21,8 @@
 - GitHub repo létrehozása
 - összekapcsolási parancs: 
     >   git remote add origin https://token@github.com/aaronzsolt/mymusic.git
+- meg kell mondani a legelső alkalommal, hogy melyik ágat használjuk és feltesszük a legújabb verziónkat:
+    > git push -u origin master
+
+- további verziók esetén:
+    > git push        
