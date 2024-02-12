@@ -40,14 +40,14 @@ CREATE TABLE `music` (
 --
 
 INSERT INTO `music` (`id`, `borito`, `cim`, `link`, `leiras`) VALUES
-(1, '', 'Melyikünk röhög', 'https://youtu.be/gD0TMptsdSc', ''),
-(2, '', 'Hosszú az út', 'https://youtu.be/toegzh-8_vs', ''),
-(3, '', 'Keresem', 'https://youtu.be/SJN7vDJn_Lg', ''),
-(4, '', 'Ez vagyok', 'https://youtu.be/RWdka6fu4G4', ''),
-(5, '', 'Bizonyítana', 'https://youtu.be/gwadU8rBKis', ''),
-(6, '', 'Kondi', 'https://youtu.be/uSQl0aI0bhg', ''),
-(7, '', 'Maldív', 'https://youtu.be/hG8UpZPtv6M', ''),
-(8, '', 'Factory New', 'https://youtu.be/9UJAoMp0Avc', '');
+(1, 'https://ibb.co/GQXQQY1', 'Melyikünk röhög', 'https://youtu.be/gD0TMptsdSc', ''),
+(2, 'https://ibb.co/tCjvGqG', 'Hosszú az út', 'https://youtu.be/toegzh-8_vs', ''),
+(3, 'https://ibb.co/CHNmvMs', 'Keresem', 'https://youtu.be/SJN7vDJn_Lg', ''),
+(4, 'https://ibb.co/jG4xpgB', 'Ez vagyok', 'https://youtu.be/RWdka6fu4G4', ''),
+(5, 'https://ibb.co/jG4xpgB', 'Bizonyítana', 'https://youtu.be/gwadU8rBKis', ''),
+(6, 'https://ibb.co/jG4xpgB', 'Kondi', 'https://youtu.be/uSQl0aI0bhg', ''),
+(7, 'https://ibb.co/jG4xpgB', 'Maldív', 'https://youtu.be/hG8UpZPtv6M', ''),
+(8, 'https://ibb.co/jG4xpgB', 'Factory New', 'https://youtu.be/9UJAoMp0Avc', '');
 
 --
 -- Indexek a kiírt táblákhoz
